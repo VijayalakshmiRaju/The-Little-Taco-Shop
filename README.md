@@ -1,2 +1,3 @@
 # The-Little-Taco-Shop
-The Little Taco Shop is a website developed and designed using HTML and CSS which advertises a chat item called Tacos.
+The Little Taco Shop is a website developed and designed using HTML and CSS which advertises a chat item called Tacos. 
+And it also has the informatiom about shop hours and price details of the tacos...
